@@ -1,0 +1,5 @@
+2022-03-12T13:37:41.4145652 500 : [{"timestamp":"2022-03-12T18:37:41.391+00:00","status":500,"error":"Internal Server Error","message":"No message available","path":"/account/transfer"}]
+2022-03-12T14:43:24.5064717 400 : [{"timestamp":"2022-03-12T19:43:24.473+00:00","status":400,"error":"Bad Request","message":"User registration failed.","path":"/register"}]
+2022-03-12T14:43:40.1055461 404 : [{"timestamp":"2022-03-12T19:43:40.103+00:00","status":404,"error":"Not Found","message":"No message available","path":"/users/2002"}]
+2022-03-12T14:45:41.2528422 404 : [{"timestamp":"2022-03-12T19:45:41.149+00:00","status":404,"error":"Not Found","message":"No message available","path":"/users/2002"}]
+2022-03-12T14:57:57.825637 401 : [{"timestamp":"2022-03-12T19:57:57.794+00:00","status":401,"error":"Unauthorized","message":"Full authentication is required to access this resource","path":"/account/2002/user"}]
